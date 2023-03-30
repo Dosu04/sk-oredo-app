@@ -28,7 +28,7 @@ import DonateImg from '$lib/images/donate/Image.jpg';
           </div>
           <div class="content">
             <h4>Food and Clothes for Orphanage Visit</h4>
-            <p><strong>N220,000</strong>raised from  <strong>N600,000</strong>   total</p>
+            <p><strong>N220,000</strong> raised from  <strong>N600,000</strong>   total</p>
             <div class="progress">
               <div class="progress-bar" role="progressbar" style="width: 35%;" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100">35%</div>
             </div> <br><br>
@@ -62,7 +62,7 @@ import DonateImg from '$lib/images/donate/Image.jpg';
           </div>
           <div class="content">
             <h4>Food and Clothes for Orphanage Visit</h4>
-            <p><strong>N220,000</strong>raised from  <strong>N600,000</strong>   total</p>
+            <p><strong>N220,000</strong> raised from  <strong>N600,000</strong>   total</p>
             <div class="progress">
               <div class="progress-bar" role="progressbar" style="width: 15%;" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100">15%</div>
             </div> <br><br>
@@ -95,7 +95,7 @@ import DonateImg from '$lib/images/donate/Image.jpg';
           </div>
           <div class="content">
             <h4>Food and Clothes for Orphanage Visit</h4>
-            <p><strong>N220,000</strong>raised from  <strong>N600,000</strong>   total</p>
+            <p><strong>N220,000</strong> raised from  <strong>N600,000</strong>   total</p>
             <div class="progress">
               <div class="progress-bar" role="progressbar" style="width: 75%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">75%</div>
             </div> <br><br>

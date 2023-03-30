@@ -1,6 +1,4 @@
 <script>
-	import Footer from "../../components/Footer.svelte";
-import NavbarL from "../../components/NavbarL.svelte";
 import Usr from '$lib/images/nav/user.png';
 
 
@@ -58,6 +56,7 @@ border-color: #9b5fe3;
                     <form action="">
                         <div class="mb-3">
                             <div class="profile-pic">
+                                <!-- svelte-ignore a11y-img-redundant-alt -->
                                 <img src={Usr} alt="profile picture" id="profile-img" width="200rem"><br>
             
             <div class="profile-upload ">

@@ -40,7 +40,7 @@
                                 <br>
                                 <div class="mb-3">
                                   <input type="password" placeholder="Password" class="form-control" id="exampleInputPassword1">
-                                <pre style="text-align: right;"><a href="/reset">Forgot Password?</a></pre>                                
+                                <pre style="text-align: right; color:#AD7BE9"><a href="/reset" style="color:#AD7BE9;">Forgot Password?</a></pre>                                
                                   
                                 </div><br>
     
@@ -98,7 +98,7 @@
                                 <br>
                                 <div class="mb-3">
                                   <input type="password" placeholder="Password" class="form-control" id="exampleInputPassword1">
-                                  <pre style="text-align: right;"><a href="/reset">Forgot Password?</a></pre> 
+                                  <pre style="text-align: right; "><a href="/reset" style="color:#AD7BE9;">Forgot Password?</a></pre> 
                                 </div><br>
                                 
     

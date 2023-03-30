@@ -11,7 +11,7 @@
         </div>
         <div class="col-lg-4" style="padding: 3rem; text-align:center ">
             <h4 style="margin-top: 2.5rem;">Make a donation today and</h4>
-            <h4 style="color:#AD7BE9; padding:2rem 0">change someone's life</h4>
+            <h4 style="color:#AD7BE9; padding:0.5rem 0">change someone's life</h4>
         <a class="btn btn-primary don-butt" style=" margin-bottom:2rem; " href="/donate">Make a Donation</a> 
 
         </div>
@@ -30,7 +30,7 @@
     <div class="row">
         <div class="col-lg-12" style="text-align:center">
             <h4 style="margin-top: 2.5rem;">Make a donation today and</h4>
-            <h4 style="color:#AD7BE9; padding:2rem 0">change someone's life</h4>
+            <h4 style="color:#AD7BE9; padding:0.5rem 0">change someone's life</h4>
         <a class="btn btn-primary don-butt" style=" margin-bottom:2rem; " href="/">Make a Donation</a> 
     
         </div>
