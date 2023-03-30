@@ -7,7 +7,6 @@ import Navbar from "../../components/Navbar.svelte";
 
 
 <main>
-  <Navbar/>
   <section style="background-color:#AD7BE9;text-align:center; color:white">
     <h1>Start a Campaign</h1>
   </section>
