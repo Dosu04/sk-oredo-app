@@ -103,11 +103,11 @@
                                 
     
                         </div>
-                        
-                        <a href="/loggedHome">
-                            <input type="submit" class="btn btn-primary inputs" value="Sign In"/>
-                            </a>  
-                             <br><br>
+                            <a href="/loggedHome" >
+                                <input type="submit" style="width: 100%;" class="btn btn-primary inputs2" value="Sign In"/>
+                                </a>  
+                                 <br><br>
+                       
                         <a href="" style="background-color:white; border: 1px solid #b5b5b5; color:black; width:100%" type="submit" class="btn btn-primary inputs2"><img style="margin-right:1rem"src={Google} alt="" width="25px"> Continue with Google</a>
 <br><br>
 <p style="padding: 0;">If you're new to Oredo,  <a href="/register" style="color:#AD7BE9">Create an Account</a> </p>
